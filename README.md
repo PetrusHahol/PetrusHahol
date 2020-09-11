@@ -18,12 +18,12 @@
 
 DevOps | SRE | Golang | Java | Python | Competitive Programming
 
-<a href="https://github.com/ashwanisng">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PetrusHahol&theme=radical&hide=glsl,python" />
+<div>
+<img align= "right" src="https://github-readme-stats.vercel.app/api?username=PetrusHahol&&show_icons=true&theme=radical&line_height=40&v=5" alt="PetrusHahol's GitHub Stats" />
+<a href="https://github.com/PetrusHahol">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PetrusHahol&theme=radical&hide=glsl,python" />
 </a>
-
-<img src="https://github-readme-stats.vercel.app/api?username=PetrusHahol&&show_icons=true&theme=radical&line_height=27&v=5" alt="PetrusHahol's GitHub Stats" />
-
+</div>
 
 ##  Contact Me :speech_balloon:
 [![Linkedin Badge](https://img.shields.io/badge/-petrusioustanislau-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/petrusioustanislau/)](https://www.linkedin.com/in/petrusioustanislau/) [![Gmail Badge](https://img.shields.io/badge/-petius96@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:petius96@gmail.com)](mailto:petius96@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-@_pet1us_-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/_pet1us_/)](https://www.instagram.com/_pet1us_/)
