@@ -1,6 +1,6 @@
  # <a href="https://www.linkedin.com/in/petrusioustanislau/">Stanislau Petrusiou</a>
  
-DevOps | SRE | Golang | Java | Python | Competitive Programming
+DevOps | SRE | Go | Java | Python | Competitive Programming
 
 
 ##  Contact Me :speech_balloon:
